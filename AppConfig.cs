@@ -28,10 +28,10 @@ public static class AppConfig
         {
             [Targets.Api] = new(
                 Key: Targets.Api,
-                DisplayName: "RealWorldAspire.ApiService",
-                RootPath: @"C:\Repos\Perso\Vitrism\Andromeda\backend\src\RealWorldAspire.ApiService",
-                ProjectFilePath: @"C:\Repos\Perso\Vitrism\Andromeda\backend\src\RealWorldAspire.ApiService\RealWorldAspire.ApiService.csproj",
-                OutputFileName: "RealWorldAspire.ApiService.merged.txt",
+                DisplayName: "Andromeda.ApiService",
+                RootPath: @"C:\Repos\Perso\Vitrism\Andromeda\backend\src\Andromeda.ApiService",
+                ProjectFilePath: @"C:\Repos\Perso\Vitrism\Andromeda\backend\src\Andromeda.ApiService\Andromeda.ApiService.csproj",
+                OutputFileName: "Andromeda.ApiService.merged.txt",
                 Extensions:
                 [
                     ".cs",
@@ -46,10 +46,10 @@ public static class AppConfig
 
             [Targets.Tests] = new(
                 Key: Targets.Tests,
-                DisplayName: "RealWorldAspire.ApiService.Tests",
-                RootPath: @"C:\Repos\Perso\Vitrism\Andromeda\backend\tests\RealWorldAspire.ApiService.Tests",
-                ProjectFilePath: @"C:\Repos\Perso\Vitrism\Andromeda\backend\tests\RealWorldAspire.ApiService.Tests\RealWorldAspire.ApiService.Tests.csproj",
-                OutputFileName: "RealWorldAspire.ApiService.Tests.merged.txt",
+                DisplayName: "Andromeda.ApiService.Tests",
+                RootPath: @"C:\Repos\Perso\Vitrism\Andromeda\backend\tests\Andromeda.ApiService.Tests",
+                ProjectFilePath: @"C:\Repos\Perso\Vitrism\Andromeda\backend\tests\Andromeda.ApiService.Tests\Andromeda.ApiService.Tests.csproj",
+                OutputFileName: "Andromeda.ApiService.Tests.merged.txt",
                 Extensions:
                 [
                     ".cs",
