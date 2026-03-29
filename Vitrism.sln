@@ -6,17 +6,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Andromeda", "Andromeda", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cassiopeia", "Cassiopeia", "{91B3FC80-2643-4779-A15C-5423F60B0CD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealWorldAspire.AppHost", "..\Andromeda\backend\src\RealWorldAspire.AppHost\RealWorldAspire.AppHost.csproj", "{55FC541D-9E5A-405C-B42B-FA1892F8443F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Andromeda.AppHost", "..\Andromeda\backend\src\RealWorldAspire.AppHost\Andromeda.AppHost.csproj", "{55FC541D-9E5A-405C-B42B-FA1892F8443F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealWorldAspire.ServiceDefaults", "..\Andromeda\backend\src\RealWorldAspire.ServiceDefaults\RealWorldAspire.ServiceDefaults.csproj", "{72E21ACC-580F-464F-BC8D-895BA9D0C873}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Andromeda.ServiceDefaults", "..\Andromeda\backend\src\RealWorldAspire.ServiceDefaults\Andromeda.ServiceDefaults.csproj", "{72E21ACC-580F-464F-BC8D-895BA9D0C873}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealWorldAspire.ApiService", "..\Andromeda\backend\src\RealWorldAspire.ApiService\RealWorldAspire.ApiService.csproj", "{0EE699BE-6E34-4987-9CBE-624C6F4ACFF2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Andromeda.ApiService", "..\Andromeda\backend\src\RealWorldAspire.ApiService\Andromeda.ApiService.csproj", "{0EE699BE-6E34-4987-9CBE-624C6F4ACFF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealWorldAspire.ApiService.Tests", "..\Andromeda\backend\tests\RealWorldAspire.ApiService.Tests\RealWorldAspire.ApiService.Tests.csproj", "{4561CBCA-192C-40BB-A7E4-1C0A08186E6C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Andromeda.ApiService.Tests", "..\Andromeda\backend\tests\RealWorldAspire.ApiService.Tests\Andromeda.ApiService.Tests.csproj", "{4561CBCA-192C-40BB-A7E4-1C0A08186E6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealWorldAspire.ApiService.IntegrationTests", "..\Andromeda\backend\tests\RealWorldAspire.ApiService.IntegrationTests\RealWorldAspire.ApiService.IntegrationTests.csproj", "{235A8F79-4022-4F08-8010-FE4E92810B41}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Andromeda.ApiService.IntegrationTests", "..\Andromeda\backend\tests\RealWorldAspire.ApiService.IntegrationTests\Andromeda.ApiService.IntegrationTests.csproj", "{235A8F79-4022-4F08-8010-FE4E92810B41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealWorldAspire.TestHost", "..\Andromeda\backend\tests\RealWorldAspire.TestHost\RealWorldAspire.TestHost.csproj", "{C34BCFA5-9E7C-4A1F-B32F-12D282023BF5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Andromeda.TestHost", "..\Andromeda\backend\tests\RealWorldAspire.TestHost\Andromeda.TestHost.csproj", "{C34BCFA5-9E7C-4A1F-B32F-12D282023BF5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frontend", "..\Andromeda\frontend\frontend.csproj", "{B6363A19-67D7-4789-AAD2-C0D4CFBFB7B1}"
 EndProject
